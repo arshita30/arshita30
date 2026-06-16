@@ -28,4 +28,4 @@ System for generating HLDs and BRDs using LLMs, built to cut down the manual tim
 
 Practicing DSA, exploring more low-resource language work, and open to new opportunities in AI/ML, especially anything touching GenAI or Indic NLP.
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/arshitagulati/) · [Email](arshitagulati30@gmail.com)
